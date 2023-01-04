@@ -1,0 +1,1 @@
+Esse programa é um joguinho bem simples que vai brincar com o usuário, testando se ele consegue acertar em qual número o dado vai cair.
